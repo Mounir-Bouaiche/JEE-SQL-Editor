@@ -1,0 +1,30 @@
+@import "icons.css";
+
+.blue {
+    background-color: #0088f1 !important;
+    color: white;
+}
+
+.teal {
+    background-color: #00a181 !important;
+    color: white;
+}
+
+.white {
+    background-color: #FFFFFF !important;
+    color: black;
+}
+
+.required:after {
+    display: inline-block;
+    content: '*';
+    color: red;
+}
+
+.pale-blue {
+    background-color: #ddffff;
+}
+
+.pale-green {
+    background-color: #ddffdd;
+}
